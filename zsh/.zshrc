@@ -1,7 +1,7 @@
 # keep 1000 lines of history within the shell and save it to ~/.zsh_history:
+HISTFILE=~/.zsh_history
 HISTSIZE=1000
 SAVEHIST=1000
-HISTFILE=~/.zsh_history
 
 # add path
 
@@ -34,5 +34,3 @@ eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv zsh)"
 
 # mise
 eval "$(mise activate zsh)"
-
-# pixi

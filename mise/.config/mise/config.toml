@@ -1,15 +1,17 @@
 [tools]
+antigravity-cli = "latest"
 awscli = { version = "latest", symlink_bins = "true" }
 bat = "latest"
 btop = "latest"
 bun = "latest"
+dbt-fusion = "latest"
 duckdb = "latest"
 eza = "latest"
 fastfetch = "latest"
 fzf = "latest"
-gemini-cli = "latest"
 go = "latest"
 node = "latest"
+npm = "latest"
 "npm:sfw" = "latest"
 "npm:skills" = "latest"
 pnpm = "latest"
